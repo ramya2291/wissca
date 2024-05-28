@@ -3,6 +3,7 @@ body{
    margin: 0px;
    background-repeat: no-repeat;
    background-size: cover;
+   overflow-x: hidden;
 }
 .logo{
    margin-top: 10px;
