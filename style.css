@@ -322,7 +322,13 @@ nav{
       margin-top: 20px;
    }
    .calogo{
-      padding: auto;
+      margin: auto;
+      justify-content: center;
+      height: 300px;
+      width: 300px;
+   }
+   .calogo img{
+      width: 400px;
    }
    .resicons div{
       gap:5px;
